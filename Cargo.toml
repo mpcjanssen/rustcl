@@ -1,0 +1,8 @@
+[package]
+name = "rustcl"
+version = "0.1.0"
+authors = ["Mark Janssen <mpc.janssen@gmail.com>"]
+description = "FFI Binding to create stubs enabled Tcl extensions"
+license ="0BSD"
+
+[dependencies]
